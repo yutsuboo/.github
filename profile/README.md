@@ -1,1 +1,1 @@
-https://yutsu.boo
+`boom`
