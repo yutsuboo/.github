@@ -1,7 +1,7 @@
 # Our Pixel Art Game
 
 ## Overview
-Welcome to the public repository for our Game project! In this document, we'll give you a quick glimpse of our project's objectives, artistic style, and current status.
+Welcome to the public repository for our Game project!
 
 ## Project Progress
 We have just started so there is not much so say here except our visual concept.
