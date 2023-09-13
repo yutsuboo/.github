@@ -10,4 +10,4 @@ We have just started so there is not much so say here except our visual concept.
 We are currently thinking of a capturing story.
 
 ## Stay Updated
-Thank you for your interest in our Medieval Pixel Art Game project. We look forward to sharing more updates with you soon!
+Thank you for your interest in our Art Game project. We look forward to sharing more updates with you soon!
